@@ -1,0 +1,30 @@
+Al Gore is spending the Thanksgiving holiday in Washington with his family .
+PERSON:B PERSON:E NONE:O NONE:O NONE:O DATE:S NONE:O NONE:O GPE:S NONE:O NONE:O NONE:O NONE:O
+B E O O S O S S S O O O O
+S O O O S O O O S O O S O
+S S O O S O S S S O O O O
+O O O O S S O S O O S O O
+0 2 PERSON
+5 6 DATE
+8 9 GPE
+
+Yesterday , he and his wife , Tipper , made their annual visit to a local food bank .
+DATE:S NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O PERSON:S NONE:O NONE:O NONE:O DATE:S NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O
+O O S O O O O O O S O O O S O O O S O
+O O O S O O O O O O O O O O O O O S O
+O O O O O O O O O S O O O O S O O O O
+O O O O S O O O O O O O O S S O O O O
+0 1 DATE
+7 8 PERSON
+11 12 DATE
+
+The Vice President joked whether volunteers ought to recount the boxes of food .
+NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O
+S S S O O O O S O S O O O O
+S O O O O O O O O S O O O O
+S O O O O O O O O S O O O O
+S O O O O O O S O S O O O O
+
+Gore also says he 's focusing on building a possible administration , a move he thinks George W. Bush should make as well , in spite of the election uncertainty .
+PERSON:S NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O PERSON:B PERSON:I PERSON:E NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O
+S O O S O O S O O O O O O O S O B I E O O O S O S O O S O O O

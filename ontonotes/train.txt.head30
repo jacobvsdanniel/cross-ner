@@ -1,0 +1,30 @@
+Sharon Osbourne did not enjoy her meal at a Los Angeles restaurant last night .
+PERSON:B PERSON:E NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O GPE:B GPE:E NONE:O TIME:B TIME:E NONE:O
+S S O O O S O O O S S O S S O
+O O O O O O O O O B E O O O O
+S O O O O O O O S B E O O O O
+O O O O O O O O S S O O O S O
+0 2 PERSON
+9 11 GPE
+12 14 TIME
+
+Ozzy 's wife reportedly got into a fight with Hollywood agent Renee Tab .
+PERSON:S NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O NONE:O GPE:S NONE:O PERSON:B PERSON:E NONE:O
+S O O O O O O O O S S S S O
+O O O O O O O O O O O O O O
+O S O O O O S O O S O O O O
+O O O O O O S S O O O O O O
+0 1 PERSON
+9 10 GPE
+11 13 PERSON
+
+Sharon spit on Tab and called her names .
+PERSON:S NONE:O NONE:O PERSON:S NONE:O NONE:O NONE:O NONE:O NONE:O
+S O S S O O S O O
+O O O O S O O O O
+S O O O O O O O O
+O O S O O O O O O
+0 1 PERSON
+3 4 PERSON
+
+Osbourne 's spokeswoman says Sharon was quote , `` viciously assaulted and treated at a hospital . ''
