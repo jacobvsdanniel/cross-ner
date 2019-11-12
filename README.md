@@ -1,5 +1,9 @@
 # Cross_NER
 
+This repository contains the source codes for:
+
+Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2019. [Remedying BiLSTM-CNN Deficiency in Modeling Cross-Context for NER](https://arxiv.org/abs/1908.11046). arXiv preprint arXiv:1908.11046 (To appear in AAAI 2020).
+
 ```python
 evaluate.py # train/test script
 model.py # tf==1.14 model file
@@ -7,6 +11,6 @@ model.py # tf==1.14 model file
 [dataset]/ # train/validate/test files for [dataset]
 ```
 
-This repository contains the source codes for:
+### Related Project
 
-Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2019. [Remedying BiLSTM-CNN Deficiency in Modeling Cross-Context for NER](https://arxiv.org/abs/1908.11046). arXiv preprint arXiv:1908.11046 (To appear in AAAI 2020).
+[CkipTagger](https://github.com/ckiplab/ckiptagger): Chinese WS, POS, NER tagger developed alongside this work.
