@@ -1,4 +1,4 @@
-# Cross_NER
+# Cross-NER
 
 This repository contains the source codes for:
 
